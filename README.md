@@ -1,4 +1,5 @@
                                          👋 Hi, I’m Mohamed Omar
+                                         <hr>
                                   A Passionate Frontend Developer From Egypt
 
 <!---
