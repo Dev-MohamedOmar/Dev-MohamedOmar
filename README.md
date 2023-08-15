@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mohamed Omar
-- A Passionate Frontend Developer From Egypt
+           👋 Hi, I’m Mohamed Omar
+        A Passionate Frontend Developer From Egypt
 
 <!---
 Dev-MohamedOmar/Dev-MohamedOmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
